@@ -1,4 +1,6 @@
 main()
 {system.out.println("hello");
 system.out.println("how r u");
+system.out.println("first");
+system.out.println("second");
 }
